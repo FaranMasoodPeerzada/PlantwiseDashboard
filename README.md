@@ -94,7 +94,6 @@ material-dashboard/
 |   |    └── material-dashboard.scss
 |   └── img/
 |
-├── documentation/
 ├── Index.html
 ├── country.html
 ├── punjab.html
